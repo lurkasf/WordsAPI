@@ -1,4 +1,4 @@
-# palavrasAPI
+# WordsAPI
 Uma API que fornece palavras no formato .json
 
 ## Uses
