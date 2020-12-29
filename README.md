@@ -1,6 +1,8 @@
 # WordsAPI
 Uma API que fornece palavras no formato .json
 
+O principal uso conhecido da API, atualmente é para o minigame [Anagrama](https://lurkasf.github.io/Anagrama), de mesma autoria.
+
 ## Uses
 
 ### With Axios
